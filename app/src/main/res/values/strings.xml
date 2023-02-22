@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Petscare+</string>
+    <string name="terms_conditions">Al ingresar aceptas nuestros <u>terminos</u> y <u>condiciones</u> del servicio.</string>
+    <string name="web_client_id" tools:ignore="TypographyDashes">427519725328-4ddja0u4snlhkr9ih2siemu8uqjgk4qs.apps.googleusercontent.com</string>
+
+    <string name="permissions_denied">Debido a que rechazo los permisos de cámara en más de una ocasión, el sistema Android, no permite volver asolicitarle los permisos, por lo que deberá activarlos manualmente en la siguiente pantalla de Información de la aplicación > Permisos > Cámara > Permitir.</string>
+    <string name="permissions_failed">Es necesario aceptar los permisos de uso de la cámara, si desea usarla para tomar una foto y establecerla como foto del producto, mientras no acepte el permiso, no podrá utilizar esta funcionalidad.</string>
+
+</resources>

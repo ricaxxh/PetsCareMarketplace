@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TEXT COLORS -->
+    <color name="title_text">#EDEDED</color>
+    <color name="subtitle_text">#DBDBDB</color>
+    <color name="body_text">#AFAFAF</color>"
+
+    <!-- COMPONENTS COLORS -->
+    <color name="icons">#AFAFAF</color>
+    <color name="btn_google">@color/gray</color>
+    <color name="ripple_btn_google">#DBDBDB</color>
+    <color name="card_login">#363636</color>
+</resources>

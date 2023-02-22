@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable-v24/autocomplete.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/autocomplete.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/card_login.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/fig_circle.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/fig_round_square.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_argentina.xml" value="0.1545" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_brasil.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_colombia.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_mexico.xml" value="0.228" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_united_states.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_uruguay.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/flag_venezuela.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_add.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_analitycs.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_arrow_down.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_arrow_up.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_back.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_camera.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_camera_outlined.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_cart.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_category.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_close.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_close_outline.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_code.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_dog.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_filter.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_folder.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_google.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_heart_filled.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_heart_outline.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_info.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_launcher_background.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_lock.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_mail.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_not_image.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_numbers.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_package.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_panda.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_phone.xml" value="0.228" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_price.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_product.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_save.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_search.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_share.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_shopping.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_store.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_tune.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_user.xml" value="0.2135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/ic_world.xml" value="0.2055" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/drawable/toggle_favorite.xml" value="0.223" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_login.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_main.xml" value="0.3123262279888786" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_menu.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_menu_consumer.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_menu_seller.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_register.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/activity_register_product.xml" value="0.33" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/cart_product.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/content_main.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/dialog_photo_product.xml" value="0.33" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/dialog_product_detail.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_account.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_analitycs.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_cart.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_check_phone.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_favorites.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_first.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_login.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_orders.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_phone_code.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_purchases.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_register_company.xml" value="0.25" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_register_product.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_register_user.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_register_user_data.xml" value="0.25" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_register_user_mail.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_second.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_store.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/fragment_warehouse.xml" value="0.25" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/item_cart_product.xml" value="0.5" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/item_product.xml" value="0.33" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/item_product_consumer.xml" value="0.27136752136752135" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/item_product_seller.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/item_purchases.xml" value="0.5416666666666666" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/layout/title_dialog_selector.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/menu/consumer_menu.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/menu/menu_main.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/menu/seller_menu.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/aldai/AndroidStudioProjects/Petscare+/app/src/main/res/menu/warehouse.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

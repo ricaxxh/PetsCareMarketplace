@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navgraph_register"
+    app:startDestination="@id/registerUserFragment">
+
+    <fragment
+        android:id="@+id/registerUserFragment"
+        android:name="com.softgames.petscare.presentation.register.view.RegisterUserFragment"
+        android:label="RegisterUserFragment">
+        <action
+            android:id="@+id/NAV_REGISTER_USER_TO_REGISTER_COMPANY"
+            app:destination="@id/registerCompanyFragment"
+            app:enterAnim="@anim/enter_from_right"
+            app:exitAnim="@anim/exit_to_left"
+            app:popEnterAnim="@anim/enter_from_left"
+            app:popExitAnim="@anim/exit_to_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/registerCompanyFragment"
+        android:name="com.softgames.petscare.presentation.register.view.RegisterCompanyFragment"
+        android:label="RegisterCompanyFragment" />
+</navigation>

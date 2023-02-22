@@ -1,0 +1,123 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ************************************* THEMES ************************************* -->
+
+    <style name="THEME_SPLASH_SCREEN" parent="Theme.SplashScreen.IconBackground">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/THEME_IOTEC</item>
+    </style>
+
+    <style name="THEME_REGISTER_PRODUCT" parent="THEME_IOTEC">
+        <item name="android:statusBarColor">@color/surface</item>
+    </style>
+
+    <style name="THEME_IOTEC" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- PRIMARY COLOR. -->
+        <item name="colorPrimary">@color/cafe_400</item>
+        <item name="colorPrimaryVariant">@color/cafe_600</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- SECONDARY COLOR. -->
+        <item name="colorSecondary">@color/indigo_500</item>
+        <item name="colorSecondaryVariant">@color/indigo_600</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- TERTIARY COLOR. -->
+        <item name="colorTertiary">@color/rojo_400</item>
+        <item name="colorOnTertiary">@color/white</item>
+
+        <!-- STATUS BAR COLOR. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- CUSTOM COMPONENTS STYLES. -->
+        <item name="android:textViewStyle">@style/BODY_TEXT</item>
+        <item name="materialButtonStyle">@style/ROUND_BUTTON</item>
+        <item name="textInputStyle">@style/TEXTBOX</item>
+        <item name="android:autofilledHighlight" tools:targetApi="o">@drawable/autocomplete</item>
+
+    </style>
+
+    <!-- *************************** CUSTOM COMPONENTS STYLES *************************** -->
+
+    <style name="TITLE_TEXT" parent="@style/Widget.MaterialComponents.TextView">
+        <item name="android:fontFamily">@font/samsung_bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/title_text</item>
+    </style>
+
+    <style name="SUBTITLE_TEXT" parent="@style/Widget.MaterialComponents.TextView">
+        <item name="android:fontFamily">@font/samsung_bold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/subtitle_text</item>
+    </style>
+
+    <style name="BODY_TEXT" parent="@style/Widget.MaterialComponents.TextView">
+        <item name="android:fontFamily">@font/samsung_medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/body_text</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="ROUND_BUTTON" parent="Widget.Material3.Button.ElevatedButton">
+        <item name="android:textSize">17sp</item>
+        <item name="android:fontFamily">@font/samsung_bold</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="rippleColor">@color/cafe_600</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ROUND_BUTTON_OUTLINED" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textSize">17.5sp</item>
+        <item name="android:fontFamily">@font/samsung_bold</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="android:textColor">?attr/colorControlNormal</item>
+        <item name="android:strokeColor">?attr/colorControlNormal</item>
+    </style>
+
+    <style name="TEXTBOX" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="materialThemeOverlay">@style/TEXTBOX_OUTLINED</item>
+        <item name="counterTextAppearance">@style/COUNTER_TEXT</item>
+
+    </style>
+
+
+    <style name="TEXTBOX_OUTLINED" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="android:fontFamily">@font/samsung_medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="boxCornerRadiusBottomEnd">6dp</item>
+        <item name="boxCornerRadiusBottomStart">6dp</item>
+        <item name="boxCornerRadiusTopEnd">6dp</item>
+        <item name="boxCornerRadiusTopStart">6dp</item>
+    </style>
+
+    <style name="SPINNER" parent="Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/samsung_medium</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+    </style>
+
+    <style name="COUNTER_TEXT" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:fontFamily">@font/samsung_medium</item>
+    </style>
+
+    <style name="DIALOG_SELECTOR" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="materialAlertDialogTitleTextStyle">@style/TITLE_DIALOG</item>
+    </style>
+
+    <style name="TITLE_DIALOG" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textAppearance">@style/TITLE_DIALOG_APPEARANCE</item>
+        <item name="fontFamily">@font/samsung_bold</item>
+    </style>
+
+    <style name="TITLE_DIALOG_APPEARANCE" parent="@style/TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textSize">34sp</item>
+    </style>
+
+</resources>

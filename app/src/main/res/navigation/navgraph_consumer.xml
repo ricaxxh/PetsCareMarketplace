@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navgraph_consumer"
+    app:startDestination="@id/storeFragment">
+
+    <fragment
+        android:id="@+id/storeFragment"
+        android:name="com.softgames.petscare.presentation.menu.consumer.store.StoreFragment"
+        android:label="StoreFragment" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.softgames.petscare.presentation.menu.consumer.cart.CartFragment"
+        android:label="CartFragment" />
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="com.softgames.petscare.presentation.menu.consumer.favorites.FavoritesFragment"
+        android:label="FavoritesFragment" />
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="com.softgames.petscare.presentation.menu.consumer.account.AccountFragmentConsumer"
+        android:label="AccountFragment" />
+    <fragment
+        android:id="@+id/purchasesFragment"
+        android:name="com.softgames.petscare.presentation.menu.consumer.purchases.PurchasesFragment"
+        android:label="PurchasesFragment" />
+</navigation>

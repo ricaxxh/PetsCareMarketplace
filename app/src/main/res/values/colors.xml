@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BASIC COLORS -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#505050</color>
+
+    <color name="cafe_600">#443A33</color>
+    <color name="cafe_500">#63554C</color>
+    <color name="cafe_400">#7D6D63</color>
+
+    <color name="indigo_400">#6870DE</color>
+    <color name="indigo_500">#5160BA</color>
+    <color name="indigo_600">#313A71</color>
+
+    <color name="rojo_400">#E75F60</color>
+    <color name="rojo_500">#B34041</color>
+    <color name="rojo">#FF0000</color>
+
+    <!-- APP COLORES -->
+    <color name="primary">@color/cafe_400</color>
+    <color name="secondary">@color/indigo_500</color>
+    <color name="tertiary">@color/rojo_400</color>
+
+    <!-- TEXT COLORS -->
+    <color name="title_text">#121212</color>
+    <color name="subtitle_text">#242424</color>
+    <color name="body_text">#363636</color>"
+
+    <!-- COMPONENTS COLORS -->
+    <color name="icons">#4B4B4B</color>
+    <color name="btn_google">@color/white</color>
+    <color name="ripple_btn_google">#DDDDDD</color>
+    <color name="card_login">#fcf2f2</color>
+    <color name="pink">#FCD9D8</color>
+    <color name="surface">#f4eff1</color>
+
+
+</resources>

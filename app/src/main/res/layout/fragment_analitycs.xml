@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/surface"
+            app:layout_scrollFlags="scroll|enterAlways|snap"
+            app:navigationIcon="@drawable/ic_cart"
+            app:title="Carrito de compras"
+            app:titleTextAppearance="@style/TITLE_TEXT" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="?attr/actionBarSize"
+            android:layout_marginHorizontal="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/SUBTITLE_TEXT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Productos mas vendidos" />
+
+            <com.db.williamchart.view.BarChartView
+                android:id="@+id/most_selled_products"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                app:chart_axis="xy"
+                app:chart_barsColor="#E91E63"
+                app:chart_barsRadius="15dp"
+                app:chart_labelsSize="8sp"
+                app:chart_lineThickness="3dp"
+                app:chart_smoothLine="true" />
+
+            <TextView
+                style="@style/SUBTITLE_TEXT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Productos mejor calificados" />
+
+            <com.db.williamchart.view.BarChartView
+                android:id="@+id/top_rated_products"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="16dp"
+                app:chart_axis="xy"
+                app:chart_barsColor="#E91E63"
+                app:chart_barsRadius="15dp"
+                app:chart_labelsSize="8sp"
+                app:chart_labelsColor="@color/black"
+                app:chart_lineThickness="3dp"
+                app:chart_smoothLine="true"
+                app:labelsSize="6sp"
+                app:legendsSize="6sp"/>
+
+            <TextView
+                style="@style/SUBTITLE_TEXT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Productos favoritos" />
+
+            <ir.mahozad.android.PieChart
+                android:id="@+id/favorite_products"
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                style="@style/SUBTITLE_TEXT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Categoria mas vendida" />
+
+            <ir.mahozad.android.PieChart
+                android:id="@+id/most_selled_category"
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
